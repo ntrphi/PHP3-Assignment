@@ -1,0 +1,46 @@
+header .wrapper img{
+	width: 120px;
+	margin-left: -50px;
+	margin-top: 20px;
+}
+header nav a:hover{
+	color: red;
+}
+.pagination li{
+	width: 20px; 
+	height: 20px;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 5px;
+	list-style: none;
+    float: left;
+    margin-left: 10px;
+}
+.pagination li:hover{
+	background: #45FFD5;
+}
+.pagination li a{
+	color:  black;
+}
+.title_name a{
+	color: #000;
+	text-decoration: none;
+
+}
+.title_name a:hover{
+	color: red;
+	
+}
+/*.content .wrapper{
+	margin: 20px 50px;
+}
+.content .wrapper img{
+	width: 500px;
+}
+.content .wrapper .title{
+	width: 700px;
+}
+
+.content .wrapper .text{
+	width: 700px
+}*/
